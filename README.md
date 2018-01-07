@@ -1,4 +1,4 @@
-# Notas de seguridad informatica ofensiva
+# Notas de seguridad informática ofensiva
 He creado este repositorio para compartir el contenido que he añadido para complementar el material oficial de las clases que imparto de introducción a la seguridad informática desde el punto de vista ofensivo. El objetivo que persigue este material es servir de guía o libro para los alumnos del curso o cualquier persona que este interesada en la seguridad informática. Aunque quizá no sea el mejor, se respeta el orden establecido en el material oficial del curso. Como autor de este contenido añadido al curso, me gustaría decir que soy una persona a la que le encanta aprender. Por ello, por favor, si algo se puede mejorar o es incorrecto, no dudes en ponerte en contacto conmigo para que pueda modificarlo, mejorarlo y, por supuesto, dar crédito de tu contribución. El presente documento se encuentra en proceso de desarrollo.
 
 # Descargo de Responsabilidad
